@@ -1,0 +1,1 @@
+import React from 'react';export default function SeatMap({seats,onToggle}){return (<div className='seat-grid'>{seats.map(s=>(<div key={s.id} className={`seat ${s.status}`} onClick={()=>onToggle(s)}>{s.label}</div>))}</div>);}
