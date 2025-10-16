@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Movie Ticket Final - Flask + React + Stripe + OpenAI Chat
 
 Run Backend:
@@ -19,3 +20,6 @@ Notes:
 - Posters are stored in backend/posters as SVG placeholders.
 - This demo uses in-memory bookings; restart loses data.
 - For production use persistent DB and Stripe webhooks to verify payments securely.
+=======
+# movie-ticketbooking
+>>>>>>> f4d0081038db13665ab8f5f0ebe712d9e6489364
